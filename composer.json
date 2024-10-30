@@ -1,0 +1,9 @@
+{
+    "name": "plugin/machoolwoocommerce",
+    "description": "Connects WooCommerce to Machool to provide realtime shipping rates.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "inc/"}
+    }
+}
